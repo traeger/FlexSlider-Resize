@@ -1,7 +1,7 @@
 FlexSlider-Resize
 ===
-FlexSlider-Resize is a FlexSlider plugin which lowers the height of the slider in
-non-rootpage sites. Also an Button is added for manual resize.
+FlexSlider-Resize is a FlexSlider plugin which resets the height of the slider in
+non-rootpage sites. Also a Button is added for manual resize.
 
 usage
 ===
@@ -30,7 +30,8 @@ to
       });
     </script>
 ```
-and insert instead of 200 and 400 your desired heights.    
+and insert instead of 200 and 400 your desired heights - the first value(200) is the inital height
+on non-root-pages, the second value(400) is the size after pressing the resize button.
 
 License
 ===
