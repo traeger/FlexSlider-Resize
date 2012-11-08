@@ -1,0 +1,18 @@
+/*
+ * jQuery FlexSlider-Resize plugig
+ *
+ * uses jQuery FlexSlider license under MIT licence.
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 Marco Träger
+ * Free to use under the MIT license.
+ */
+
+
+.flex-direction-nav li .resize {
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin: 2px;
+  background: url(bg_resize.png) no-repeat;
+}
